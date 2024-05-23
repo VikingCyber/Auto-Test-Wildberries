@@ -28,4 +28,3 @@ class MainPage:
         except NoSuchElementException:
             return False
 
-
